@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&family=Poppins&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+section{
+    width: auto;
+    height: 900px;
+    padding-bottom: 400px;
+}
+
+.half-width{
+   width: 40%;
+   float: left;
+   
+   margin-left: 3%;
+    padding-left: 2%;
+    margin-top: 8%;
+    
+}
+h1{
+    color: #575757;
+    font-size: 80px;
+    padding-top: 5%;
+}
+h1 span{
+    color: tomato;
+}
+h3{
+    font-weight: 400;
+   margin-top: 70px;
+   font-size: 25px;
+   color: dimgray;
+}
+.top-image{
+    padding-left: 10%;
+    margin-top: -10%;
+    
+    height: 90%;
+    width: 100%;
+    
+}
+.top-banner{
+    
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    
+    
+}
+.anchor{
+    padding-top: 40px;
+      
+}
+.anchor-text{
+    text-decoration: none;
+    background: linear-gradient(60deg, lightsalmon, tomato);
+    padding: 25px 60px;
+    border-radius: 40px 40px 40px 40px;
+    color: white;
+    font-weight: 700;
+    
+}
+.bottom-banner{
+    background-image: url(images/shapes/7.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 61cm;
+    padding-bottom: 185px;
+}
+.bottom-image{
+    padding-left: 30%;
+    padding-top: 4%;
+    height: 100%;
+    width: 51%;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 3%;
+    color: dimgray;
+}
+.last-banner{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+    
+}
+.recipie-demo{
+    float: left;
+    width: 30%;
+    padding-left: 2%;
+    margin-left: 5%;
+    box-shadow: 10px 9px 20px rgb(238, 235, 235);
+    background-color: #fff;
+    height: 95%;
+    width: 25%;
+    border-radius: 9%;
+    margin-top: 3%;
+    
+    
+}
+.recipie{
+    background-color: whitesmoke;
+}
+
+.demo{
+    color: #000;
+    font-size: 40px;
+    margin-top: 5%;
+}
+.recipie-demo img{
+    width: 480px;
+    padding-top: 8%;
+    height: 350px;
+}
+.demo-pera{
+    margin-top: 5%;
+    
+    font-size: 20px;
+}
+.social-media{
+    height: 300px;
+    width: auto;
+    background-color: whitesmoke;
+}
+.social{
+    width: 33%;
+   float: left;
+   
+}
+.box{
+  margin-left: 5%;
+  margin-top: 8%;
+  
+  height: 80%;
+  width: 82%;
+  padding-top: 3%;
+  padding-left: 10%;
+  border-radius:30px 30px 30px 30px;
+  box-shadow: 10px 9px 20px rgb(238, 235, 235);
+    background-color: #fff;
+}
+.footer{
+    text-align: center;
+    height: 0px;
+    width: auto;
+    background-color: rgb(22, 21, 21);
+}
+h2 span{
+    color: tomato;
+}
+.footer p{
+    color: #fff;
+    margin-top: 3%;
+    font-size: 20px;
+}
